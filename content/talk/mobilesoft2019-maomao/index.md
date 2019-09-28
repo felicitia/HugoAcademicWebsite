@@ -46,11 +46,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Subscribe
+  url: https://www.youtube.com/channel/UCn-EdIQUp1jZI1zahbXYLBw
+  icon_pack: fab
+  icon: youtube
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: https://speakerdeck.com/yixue_zhao/a-microservice-architecture-for-online-mobile-app-optimization

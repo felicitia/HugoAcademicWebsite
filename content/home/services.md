@@ -1,16 +1,16 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 6  # Order that this section will appear.
 
-title = "Projects"
+title = "Academic Services"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = ""
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -75,3 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
+- [MOBILESoft 2020](https://conf.researchr.org/home/icse-2020/mobilesoft-2020) Publicity Chair. Seoul, South Korea
+- [ASE 2019](https://2019.ase-conferences.org/) Social Media Chair. San Diego, USA
+- [MOBILESoft 2019](https://mobilesoftconf.org/2019/) Social Media Chair, Session Chair. Montreal, Canada
+- [ICSE 2017](https://icse2017.gatech.edu/) Student Volunteer. Buenos Aires, Argentina
