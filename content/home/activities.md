@@ -19,7 +19,7 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "[Rising Stars Participant](https://publish.illinois.edu/rising-stars/participants/)"
+  title = "[UIUC Rising Stars Workshop](https://publish.illinois.edu/rising-stars/participants/)"
   company = "University of Illinois at Urbana-Champaign"
   company_url = "https://publish.illinois.edu/rising-stars/"
   location = "Champaign"
@@ -37,7 +37,7 @@ date_format = "2006"
   description = ""
 
 [[experience]]
-  title = "[CRA-W Grad Cohort Participant](img/ZHAO_Yixue_GradCohort2017.jpg)"
+  title = "[CRA-W Grad Cohort](img/ZHAO_Yixue_GradCohort2017.jpg)"
   company = "CRA-W (renamed to CRA-WP as of 2019)"
   company_url = "https://cra.org/cra-wp/events/grad-cohort-workshop-2017/"
   location = "Washington, D.C."
@@ -55,7 +55,7 @@ date_format = "2006"
   description = ""  
 
 [[experience]]
-  title = "[Morgan Stanley Women PhD Quantitative Finance Mentorship Program](https://www.morganstanley.com/people-opportunities/students-graduates/programs/diversity/morgan-stanley-women-s-quantitative-finance-mentorship-program-north-america)"
+  title = "[Quantitative Finance Women's PhD Mentorship Program (8 recipients in USA)](https://www.morganstanley.com/people-opportunities/students-graduates/programs/diversity/morgan-stanley-women-s-quantitative-finance-mentorship-program-north-america)"
   company = "Morgan Stanley"
   company_url = "https://www.morganstanley.com/"
   location = "New York"
@@ -64,7 +64,7 @@ date_format = "2006"
   description = "" 
 
 [[experience]]
-  title = "[Grace Hopper Celebration Participant](img/ZHAO_Yixue_GHC2015.jpg)"
+  title = "[Grace Hopper Celebration](img/ZHAO_Yixue_GHC2015.jpg)"
   company = "AnitaB.org"
   company_url = "https://ghc.anitab.org/"
   location = "Houston"
