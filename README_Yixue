@@ -1,0 +1,14 @@
+----------
+To Deploy
+----------
+1) Change the baseurl to "/~yixuezha/" in the config folder
+2) Generate the content. In the root directory run:
+    hugo
+3) Delete the old website. 
+    a) ssh to aludra.usc.edu: 
+        ssh yixuezha@aludra.usc.edu
+    b) run the command:
+        yes | rm -rf public_html/*
+4) On local machine, copy the public directory to aldura:
+    scp -r public/* yixuezha@aludra.usc.edu:~/public_html
+
