@@ -12,3 +12,4 @@ To Deploy
 4) On local machine, copy the public directory to aldura:
     scp -r public/* yixuezha@aludra.usc.edu:~/public_html
 
+Note: the urls of static/css and static/js are not generated correctly by hugo command, might need to change misc/index.html to enable photo gallery
