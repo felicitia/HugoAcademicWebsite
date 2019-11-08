@@ -13,8 +13,7 @@ title = "Miscellaneous Links"
 
 <br/>
 # Photo Gallery
-{{< load-photoswipe >}}
-{{< gallery dir="/img/gallery/" />}}
+{{< gallery dir="/img/gallery/" />}} {{< load-photoswipe >}}
 <!--
 {{< gallery >}}
   {{< figure src="img/gallery/GHC2015.jpg" caption="Grace Hopper Celebration 2015">}}
