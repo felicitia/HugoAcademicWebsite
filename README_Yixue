@@ -12,4 +12,24 @@ To Deploy
 4) On local machine, copy the public directory to aldura:
     scp -r public/* yixuezha@aludra.usc.edu:~/public_html
 
-Note: the urls of static/css and static/js are not generated correctly by hugo command, might need to change misc/index.html to enable photo gallery
+
+## Photo Gallery Issues
+
+1. Make sure the following code is added to the file `themes/academic/layouts/partials/widget_page.html` right before the last `{{ end }}`. Screenshot is attached below.
+```
+ <!-- Load PhotoSwipe js if the load-photoswipe shortcode has been used -->
+{{ if ($.Scratch.Get "photoswipeloaded") }}
+<script src="/js/load-photoswipe.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+{{ end }}
+```
+<img src="static/img/widget_page_screenshot.png" > 
+
+
+2. the urls of static/css and static/js are not generated correctly by hugo command, might need to change `public/misc/index.html` to enable photo gallery.
+
+## Versions 
+1. academic theme version (v4.5.0)
+2. Hugo version (0.60.0 hugo-extended version) 
+Detailed notes are documented in Notion useful scripts.
