@@ -27,7 +27,9 @@ To Deploy
 <img src="static/img/widget_page_screenshot.png" > 
 
 
-2. the urls of static/css and static/js are not generated correctly by hugo command, might need to change `public/misc/index.html` to enable photo gallery.
+2. Make sure in `content/misc/_index.md` the `dir="/img/gallery/"` has `/` before img.
+
+3. the urls of static/css and static/js are not generated correctly by hugo command. Go to the generated file `public/misc/index.html` and find paths `/js/load-photoswipe.js` and `yixue/css/hugo-easy-gallery.css`. Then manually add `/~yixue/` in the beginning, e.g.,  `/~yixue/js/load-photoswipe.js`. 
 
 ## Adding Recent News
 Followed this instruction: https://github.com/gcushen/hugo-academic/issues/1677

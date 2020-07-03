@@ -13,7 +13,7 @@ title = "Miscellaneous Links"
 
 
 # Photo Gallery
-{{< gallery dir="img/gallery/" />}} {{< load-photoswipe >}}
+{{< gallery dir="/img/gallery/" />}} {{< load-photoswipe >}}
 
 <!-- 
 {{< gallery >}}
