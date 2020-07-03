@@ -32,7 +32,10 @@ To Deploy
 3. the urls of static/css and static/js are not generated correctly by hugo command. Go to the generated file `public/misc/index.html` and find paths `/js/load-photoswipe.js` and `yixue/css/hugo-easy-gallery.css`. Then manually add `/~yixue/` in the beginning, e.g.,  `/~yixue/js/load-photoswipe.js`. 
 
 ## Adding Recent News
-Followed this instruction: https://github.com/gcushen/hugo-academic/issues/1677
+
+1. Followed this instruction: https://github.com/gcushen/hugo-academic/issues/1677
+
+2. When deploy, add `/~yixue/` in the path, e.g., in `content/home/recent_news.md`, do `subtitle = "[All News>>](/~yixue/news)"`; in `content/newslist.dat`, do `(/~yixue/publication/zhao-fruiter-2020/)` in the link.
 
 ## Versions 
 1. academic theme version (v4.5.0)
