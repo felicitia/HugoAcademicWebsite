@@ -6,7 +6,7 @@ authors: ["Tonghua Su", "Tong Wei", "Yixue Zhao", "Shuoxing Wang", "Zhiyue Liu"]
 date: 2015-01-28
 doi: ""
 
-publication_types: ["6"]
+publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*China Machine Press*"

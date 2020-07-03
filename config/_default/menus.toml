@@ -9,9 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 20
+  name = "News"
+  url = "#recent_news"
+  weight = 15 
+
+# [[main]]
+#  name = "Experience"
+#  url = "#experience"
+#  weight = 20
 
 [[main]]
   name = "Awards"
@@ -39,7 +44,7 @@
   weight = 70
 
 [[main]]
-  name = "Featured"
+  name = "Featured Pubs"
   url = "#featured"
   weight = 80
 
@@ -52,7 +57,7 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "files/CV_ZHAO_Yixue-short.pdf"
+  url = "files/CV_Zhao_Yixue.pdf"
   weight = 100
 
 [[main]]

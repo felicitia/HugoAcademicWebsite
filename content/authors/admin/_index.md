@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yixue Zhao
+name: Yixue Zhao 赵逸雪
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate </br> Computer Science Department
+role: Ph.D. Candidate in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Mobile Applications
@@ -30,10 +30,10 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: University of Southern California
-    year: since 2014
+    institution: University of Southern California, USA
+    year: 2014 -- Present
   - course: BEng in Software Engineering
-    institution: Harbin Institute of Technology
+    institution: Harbin Institute of Technology, China
     year: 2014
 
 # Social/Academic Networking
@@ -57,7 +57,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the # lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/CV_ZHAO_Yixue-short.pdf
+  link: files/CV_Zhao_Yixue.pdf
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yixue_zhao
@@ -80,6 +80,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. candidate in the Computer Science Department at the University of Southern California (USC). I am very fortunate to be advised by Professor [Nenad Medvidović](http://sunset.usc.edu/~neno/) throughout my Ph.D., which raised my interest in pursuing an academic career.
-I enjoy solving important and interesting problems with broad research interests, focusing on the area of <b>Software Engineering</b>.
-Prior to USC, I received my Bachelor’s degree in Software Engineering from the Harbin Institute of Technology in China in 2014, advised by Professor [Zhongjie Wang](http://homepage.hit.edu.cn/rainy).
+I am a Ph.D. candidate in Computer Science at University of Southern California (**USC**). My primary research community is **Software Engineering**. I am lucky enough to be advised by [Nenad Medvidović](https://softarch.usc.edu/~neno/) throughout my Ph.D., which raised my interest in pursuing an academic career.
+I enjoy solving important and interesting problems with broad research interests (knowledge has no boundaries, right? :)). Prior to USC, I received my Bachelor’s degree in Software Engineering from Harbin Institute of Technology (**HIT**) in China, advised by Zhongjie Wang (王忠杰).

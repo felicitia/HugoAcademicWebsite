@@ -1,5 +1,5 @@
 ---
-title: "Toward Client-centric Approaches for Latency Minimization in Mobile Applications"
+title: "Toward Client-Centric Approaches for Latency Minimization in Mobile Applications"
 date: 2017-05-01
 authors: ["Yixue Zhao"]
 publication_types: ["1"]
@@ -8,5 +8,6 @@ featured: false
 publication: "*Proceedings of the 4th International Conference on Mobile Software Engineering and Systems* (**MOBILESoft** SRC, **1st place**)"
 url_pdf: "https://doi.org/10.1109/MOBILESoft.2017.34"
 doi: "10.1109/MOBILESoft.2017.34"
+tags: ["prefetching", "program analysis", "mobile apps", "network latency"]
 ---
 

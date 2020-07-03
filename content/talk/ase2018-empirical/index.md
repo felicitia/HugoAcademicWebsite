@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Empirically Assessing Opportunities for Prefetching and Caching in Mobile Apps (ASE 2018)"
+title: "Empirically Assessing Opportunities for Prefetching and Caching in Mobile Apps [ASE 2018 Paper Presentation]"
 event: Automated Software Engineering (ASE)
 event_url:
 location: Montpellier, France

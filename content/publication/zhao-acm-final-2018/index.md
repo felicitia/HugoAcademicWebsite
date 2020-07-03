@@ -6,13 +6,13 @@ authors: ["Yixue Zhao"]
 date: 2018-03-01
 doi: ""
 
-publication_types: ["9"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "ACM Student Research Competition Grand Final"
 publication_short: ""
 
-abstract: ""
+abstract: "Reducing network latency in mobile applications is an effective way of improving the mobile user experience and has tangible economic benefits. We present PALOMA, a novel client-centric technique for reducing the network latency by prefetching HTTP requests in Android apps. Our work leverages string analysis and callback control-flow analysis to automatically instrument apps using PALOMA’srigorous formulation of scenarios that address “what” and “when”to prefetch. PALOMAhas been shown to incur significant runtime savings (several hundred milliseconds per prefetchable HTTP re-quest), both when applied on a reusable evaluation benchmark we have developed and on real applications."
 
 # Summary. An optional shortened abstract.
 summary: ""

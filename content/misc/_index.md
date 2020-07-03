@@ -11,10 +11,10 @@ title = "Miscellaneous Links"
 - Instagram: https://www.instagram.com/zhao_yixue
 - Facebook: https://www.facebook.com/profile.php?id=100005189731613
 
-<br/>
-# Photo Gallery
 
+# Photo Gallery
 {{< gallery dir="img/gallery/" />}} {{< load-photoswipe >}}
+
 <!-- 
 {{< gallery >}}
   {{< figure src="img/pubheader.jpg" caption="Grace Hopper Celebration 2015">}}

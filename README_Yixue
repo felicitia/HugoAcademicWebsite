@@ -29,7 +29,11 @@ To Deploy
 
 2. the urls of static/css and static/js are not generated correctly by hugo command, might need to change `public/misc/index.html` to enable photo gallery.
 
+## Adding Recent News
+Followed this instruction: https://github.com/gcushen/hugo-academic/issues/1677
+
 ## Versions 
 1. academic theme version (v4.5.0)
 2. Hugo version (0.60.0 hugo-extended version) 
 Detailed notes are documented in Notion useful scripts.
+
