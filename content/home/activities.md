@@ -19,7 +19,7 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "[UIUC Rising Stars Workshop](https://publish.illinois.edu/rising-stars/participants/)"
+  title = "[UIUC Rising Stars Workshop](https://viterbischool.usc.edu/news/2019/09/rising-star-honored-for-early-achievements-and-promise/)"
   company = "University of Illinois at Urbana-Champaign"
   company_url = "https://publish.illinois.edu/rising-stars/"
   location = "Champaign"
@@ -28,7 +28,7 @@ date_format = "2006"
   description = ""
 
 [[experience]]
-  title = "[Women in Computing Club (WinCC) Organizing Committee](https://sites.google.com/usc.edu/wincc)"
+  title = "Women in Computing Club (WinCC) Organizing Committee"
   company = "University of Southern California"
   company_url = "https://www.usc.edu/"
   location = "Los Angeles"
@@ -37,16 +37,16 @@ date_format = "2006"
   description = ""
 
 [[experience]]
-  title = "[CRA-W Grad Cohort](img/ZHAO_Yixue_GradCohort2017.jpg)"
-  company = "CRA-W (renamed to CRA-WP as of 2019)"
-  company_url = "https://cra.org/cra-wp/events/grad-cohort-workshop-2017/"
+  title = "[CRA-WP Grad Cohort Workshop for Women](https://cra.org/cra-wp/grad-cohort-for-women/)"
+  company = "Computing Research Association-Widening Participation"
+  company_url = "https://cra.org/cra-wp/"
   location = "Washington, D.C."
   date_start = "2017-04-07"
   date_end = "2017-04-08"
   description = ""
 
 [[experience]]
-  title = "[Interviewed by American Language Institute to Represent International Students](https://youtu.be/RjaPxtRxnOo?t=54)"
+  title = "[Interviewed by American Language Institute to Represent International Students](https://youtu.be/RjaPxtRxnOo)"
   company = "University of Southern California"
   company_url = "https://www.usc.edu/"
   location = "Los Angeles"
@@ -64,9 +64,9 @@ date_format = "2006"
   description = "" 
 
 [[experience]]
-  title = "[Grace Hopper Celebration](img/ZHAO_Yixue_GHC2015.jpg)"
+  title = "[Grace Hopper Celebration](https://ghc.anitab.org/)"
   company = "AnitaB.org"
-  company_url = "https://ghc.anitab.org/"
+  company_url = "https://anitab.org/"
   location = "Houston"
   date_start = "2015-10-14"
   date_end = "2015-10-16"
