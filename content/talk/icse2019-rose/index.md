@@ -1,18 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mobile-App Analysis and Instrumentation Techniques Reimagined with DECREE (ROSE Festival at ICSE 2019)"
+title: "Mobile-App Analysis and Instrumentation Techniques Reimagined with DECREE [ROSE Festival Lightning Talk]"
 event: Recognizing and Rewarding Open Science in Software Engineering (ROSE Festival)
 event_url:
 location: Montreal, Canada
-address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
-summary:
-abstract:
+abstract: "A large number of mobile-app analysis and instrumentation techniques have emerged in the past decade. However, those techniques' components are difficult to extract and reuse outside their original tools, their evaluation results are hard to reproduce, and the tools themselves are hard to compare. This paper introduces DECREE, an infrastructure intended to guide such techniques to be reproducible, practical, reusable, and easy to adopt in practice. DECREE allows researchers and developers to easily discover existing solutions to their needs, enables unbiased and reproducible evaluation, and supports easy construction and execution of replication studies. The paper describes DECREE's three modules and its potential to fundamentally alter how research is conducted in this area."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -23,7 +16,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate: 2019-09-26T18:08:22-07:00
 
-authors: ["Yixue Zhao", "Nenad Medvidović"]
+authors: ["Yixue Zhao", "Nenad Medvidovic"]
 tags: []
 
 # Is this a featured talk? (true/false)

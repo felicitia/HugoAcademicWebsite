@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A Microservice Architecture for Online Mobile App Optimization (MOBILESoft 2019)"
+title: "A Microservice Architecture for Online Mobile App Optimization [MOBILESoft 2019 Paper Presentation]"
 event: International Conference on Mobile Software Engineering and Systems (MOBILESoft 2019)
 event_url:
 location: Montreal, Canada

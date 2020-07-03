@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Leveraging Program Analysis to Reduce User-Perceived Latency in Mobile Applications (ICSE 2018)"
+title: "Leveraging Program Analysis to Reduce User-Perceived Latency in Mobile Applications [ICSE 2018 Paper Presentation]"
 event: International Conference on Software Engineering (ICSE)
 event_url:
 location: Gothenburg, Sweden
