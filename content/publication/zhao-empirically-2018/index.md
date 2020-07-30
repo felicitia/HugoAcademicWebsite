@@ -8,7 +8,7 @@ abstract: "Network latency in mobile software has a large impact on user experie
 featured: true
 publication: "*Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering* (**ASE**), acceptance rate: **19.9%** = 69/346"
 tags: ["caching", "empirical study", "mobile apps", "network latency", "prefetching"]
-url_pdf: "http://doi.acm.org/10.1145/3238147.3238215"
+url_pdf: "https://arxiv.org/abs/1810.08861"
 doi: "10.1145/3238147.3238215"
 url_code: "https://github.com/felicitia/PALOMA-Analysis/tree/empirical"
 url_dataset:

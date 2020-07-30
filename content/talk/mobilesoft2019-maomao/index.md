@@ -56,7 +56,7 @@ links:
 url_slides: https://speakerdeck.com/yixue_zhao/a-microservice-architecture-for-online-mobile-app-optimization
 
 url_code:
-url_pdf: https://dl.acm.org/citation.cfm?id=3340742
+url_pdf: https://arxiv.org/abs/1902.08879
 url_video: https://youtu.be/9K-0OWRfkgg
 
 # Markdown Slides (optional).

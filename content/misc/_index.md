@@ -1,8 +1,10 @@
 +++
 # Homepage for Misc
+
 type = "widget_page"
 headless = true  # Homepage is headless, other widget pages are not.
 title = "Miscellaneous Links"
+
 +++
 
 - Blog posts on Medium: https://medium.com/@yixue_zhao
@@ -11,8 +13,10 @@ title = "Miscellaneous Links"
 - Instagram: https://www.instagram.com/zhao_yixue
 - Facebook: https://www.facebook.com/profile.php?id=100005189731613
 
+  
 
 # Photo Gallery
+
 {{< gallery dir="/img/gallery/" />}} {{< load-photoswipe >}}
 
 <!-- 

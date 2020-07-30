@@ -80,5 +80,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. candidate in Computer Science at University of Southern California (**USC**). My primary research community is **Software Engineering**. I am lucky enough to be advised by [Nenad Medvidović](https://softarch.usc.edu/~neno/) throughout my Ph.D., which raised my interest in pursuing an academic career.
-I enjoy solving important and interesting problems with broad research interests (knowledge has no boundaries, right? :)). Prior to USC, I received my Bachelor’s degree in Software Engineering from Harbin Institute of Technology (**HIT**) in China, advised by Zhongjie Wang (王忠杰).
+I am a Ph.D. candidate in Computer Science at University of Southern California (**USC**). My primary research community is **Software Engineering**. I am lucky enough to be advised by Dr. [Nenad Medvidović](https://softarch.usc.edu/~neno/) throughout my Ph.D., which raised my interest in pursuing an academic career.
+I enjoy solving important and interesting problems with broad research interests (knowledge has no boundaries, right? :)). Prior to USC, I received my Bachelor’s degree in Software Engineering from Harbin Institute of Technology (**HIT**) in China, advised by Dr. Zhongjie Wang (王忠杰).

@@ -19,6 +19,16 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Computing Research Association (CRA), Computing Community Consortium (CCC)"
+  organization_url = ""
+  title = "Computing Innovation Fellow"
+  url = "https://cifellows2020.org"
+  certificate_url = ""
+  date_start = "2020-08-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Microsoft Research"
   organization_url = "https://www.microsoft.com/en-us/research"
   title = "Microsoft Research Dissertation Grant (11 recipients in North America)"

@@ -9,7 +9,8 @@ To Deploy
         ssh yixuezha@aludra.usc.edu
     b) run the command:
         yes | rm -rf public_html/*
-4) On local machine, copy the public directory to aldura:
+4) Check generated `public/misc/index.html` to see if js/css paths 	  are correct. See below for details.
+5) On local machine, copy the public directory to aldura:
     scp -r public/* yixuezha@aludra.usc.edu:~/public_html
 
 
@@ -29,7 +30,7 @@ To Deploy
 
 2. Make sure in `content/misc/_index.md` the `dir="/img/gallery/"` has `/` before img.
 
-3. the urls of static/css and static/js are not generated correctly by hugo command. Go to the generated file `public/misc/index.html` and find paths `/js/load-photoswipe.js` and `yixue/css/hugo-easy-gallery.css`. Then manually add `/~yixue/` in the beginning, e.g.,  `/~yixue/js/load-photoswipe.js`. 
+3. the urls of static/css and static/js are not generated correctly by hugo command. Go to the generated file `public/misc/index.html` and find paths `/js/load-photoswipe.js` and `/css/hugo-easy-gallery.css`. Then manually add `/~yixue/` in the beginning, e.g.,  `/~yixue/js/load-photoswipe.js`. 
 
 ## Adding Recent News
 

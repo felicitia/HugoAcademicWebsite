@@ -43,7 +43,7 @@ links:
 url_slides: https://speakerdeck.com/yixue_zhao/empirically-assessing-opportunities-for-prefetching-and-caching-in-mobile-apps
 
 url_code:
-url_pdf: https://dl.acm.org/citation.cfm?doid=3238147.3238215
+url_pdf: https://arxiv.org/abs/1810.08861
 url_video: https://youtu.be/iT1pNy370ZM
 
 # Markdown Slides (optional).

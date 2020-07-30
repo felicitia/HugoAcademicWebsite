@@ -42,7 +42,7 @@ links:
 url_slides:
 
 url_code:
-url_pdf: https://dl.acm.org/citation.cfm?id=3339755
+url_pdf: https://arxiv.org/abs/1903.03277
 url_video: https://youtu.be/wTQ4GlzlCJo
 
 # Markdown Slides (optional).

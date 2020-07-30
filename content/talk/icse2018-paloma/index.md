@@ -56,7 +56,7 @@ links:
 url_slides: https://speakerdeck.com/yixue_zhao/leveraging-program-analysis-to-reduce-user-perceived-latency-in-mobile-applications
 
 url_code:
-url_pdf: https://dl.acm.org/citation.cfm?id=3180249
+url_pdf: https://arxiv.org/abs/1810.08862
 url_video: https://youtu.be/8KUPsG4bByU
 
 # Markdown Slides (optional).

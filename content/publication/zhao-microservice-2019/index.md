@@ -13,7 +13,7 @@ techniques. The paper uses several existing app optimization techniques to illus
 its potential to fundamentally alter the landscape in this area"
 featured: false
 publication: "*Proceedings of the 6th International Conference on Mobile Software Engineering and Systems* (**MOBILESoft** Visions Track)"
-url_pdf: "https://doi.org/10.1109/MOBILESoft.2019.00017"
+url_pdf: "https://arxiv.org/abs/1902.08879"
 doi: "10.1109/MOBILESoft.2019.00017"
 url_video: 'https://youtu.be/9K-0OWRfkgg'
 url_slides: "https://speakerdeck.com/yixue_zhao/a-microservice-architecture-for-online-mobile-app-optimization"
