@@ -14,13 +14,13 @@ authors: ["Yixue Zhao",
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
-abstract: "UI testing is tedious and time-consuming due to the manual effort required. Recent research has explored opportunities for reusing existing UI tests for an app to automatically generate new tests for other apps. However, the evaluation of such techniques currently remains manual, unscalable, and unreproducible, which can waste effort and impede progress in this emerging area. We introduce FrUITeR, a framework that automatically evaluates UI test reuse in a reproducible way. We apply FrUITeR to existing test-reuse techniques on a uniform benchmark we established, resulting in 11,917 test reuse cases from 20 apps. We report several key findings aimed at improving UI test reuse that are missed by existing work."
-featured: false
+abstract: "UI testing is tedious and time-consuming due to the manual effort required. Recent research has explored opportunities for reusing existing UI tests from an app to automatically generate new tests for other apps. However, the evaluation of such techniques currently remains manual, unscalable, and unreproducible, which can waste effort and impede progress in this emerging area. We introduce FrUITeR, a framework that automatically evaluates UI test reuse in a reproducible way. We apply FrUITeR to existing test-reuse techniques on a uniform benchmark we established, resulting in 11,917 test reuse cases from 20 apps. We report several key findings aimed at improving UI test reuse that are missed by existing work."
+featured: true
 tags: ["testing", "open science", "mobile apps"]
-publication: "*The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* (**ESEC/FSE**), acceptance rate: **28%** = 101/360"
-# url_pdf: "http://doi.acm.org/10.1145/3180155.3180249"
-# doi: "10.1145/3180155.3180249"
-# url_code: "https://felicitia.github.io/PALOMA/"
+publication: "*Proceedings of the 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* (**ESEC/FSE**), acceptance rate: **28%** = 101/360"
+url_pdf: "https://arxiv.org/abs/2008.03427"
+doi: "10.1145/3368089.3409708"
+url_code: "https://felicitia.github.io/FrUITeR/"
 # url_dataset:
 # url_poster: "files/PALOMA_Poster.pdf"
 # url_project: "https://felicitia.github.io/PALOMA/"
