@@ -43,3 +43,6 @@ To Deploy
 2. Hugo version (0.60.0 hugo-extended version) 
 Detailed notes are documented in Notion useful scripts.
 
+## Adding talks
+
+1. note the date can't be in the future (for video recordings)

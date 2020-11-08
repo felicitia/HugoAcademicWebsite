@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yixue Zhao 赵逸雪
+name: 赵逸雪 Yixue Zhao, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Computer Science
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Southern California, USA
-    year: 2014 -- Present
+    year: 2020
   - course: BEng in Software Engineering
     institution: Harbin Institute of Technology, China
     year: 2014
@@ -80,5 +80,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. candidate in Computer Science at University of Southern California (**USC**). My primary research community is **Software Engineering**. I am lucky enough to be advised by Dr. [Nenad Medvidović](https://softarch.usc.edu/~neno/) throughout my Ph.D., which raised my interest in pursuing an academic career.
+I am a Computing Innovation Fellow ([CIFellow](https://cifellows2020.org/2020-class/)) and will join University of Massachusetts Amherst (**UMass**) from Jan 2021! I just finished my Ph.D. in Computer Science from University of Southern California (**USC**). My primary research community is **Software Engineering**. I am very fortunate to be advised by Dr. [Nenad Medvidović](https://softarch.usc.edu/~neno/) throughout my Ph.D., which raised my interest in pursuing an academic career.
 I enjoy solving important and interesting problems with broad research interests (knowledge has no boundaries, right? :)). Prior to USC, I received my Bachelor’s degree in Software Engineering from Harbin Institute of Technology (**HIT**) in China, advised by Dr. Zhongjie Wang (王忠杰).
