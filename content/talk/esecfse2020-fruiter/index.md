@@ -16,12 +16,12 @@ abstract: "UI testing is tedious and time-consuming due to the manual effort req
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-03T18:00:00
+date: 2020-11-11T18:00:00
 date_end: 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: 2020-11-03T18:09:40-07:00
+# publishDate: 2020-11-11T18:09:40-07:00
 
 authors: ["Yixue Zhao", "Justin Chen", "Adriana Sejfia", "Marcelo Laser", "Jie M. Zhang", "Federica Sarro", "Mark Harman", "Nenad Medvidovic"]
 tags: []

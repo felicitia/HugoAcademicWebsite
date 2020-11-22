@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: She/Her
 
 # Organizations/Affiliations
 organizations:

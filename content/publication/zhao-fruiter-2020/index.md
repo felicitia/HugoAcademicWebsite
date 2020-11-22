@@ -18,14 +18,14 @@ abstract: "UI testing is tedious and time-consuming due to the manual effort req
 featured: true
 tags: ["testing", "open science", "mobile apps"]
 publication: "*Proceedings of the 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* (**ESEC/FSE**), acceptance rate: **28%** = 101/360"
-url_pdf: "https://www.researchgate.net/publication/343568938_FrUITeR_A_Framework_for_Evaluating_UI_Test_Reuse"
+url_pdf: "https://arxiv.org/abs/2008.03427"
 doi: "10.1145/3368089.3409708"
 url_code: "https://felicitia.github.io/FrUITeR/"
 # url_dataset:
 # url_poster: "files/PALOMA_Poster.pdf"
 # url_project: "https://felicitia.github.io/PALOMA/"
-# url_slides: "https://speakerdeck.com/yixue_zhao/leveraging-program-analysis-to-reduce-user-perceived-latency-in-mobile-applications"
+url_slides: "https://speakerdeck.com/yixue_zhao/fruiter-a-framework-for-evaluating-ui-test-reuse"
 # url_source:
-# url_video: "https://youtu.be/8KUPsG4bByU"
+url_video: "https://youtu.be/zVWpT5aLyQo"
 ---
 
