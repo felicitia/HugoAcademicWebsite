@@ -7,7 +7,7 @@ title = "Miscellaneous Links"
 
 +++
 
-- Blog posts on Medium: [@yixue_zhao](https://medium.com/@yixue_zhao)
+- Blog posts on Medium: [@yixue_zhao](https://yixue-zhao.medium.com/)
 - Conference talks on YouTube: [@Yixue Zhao](https://www.youtube.com/playlist?list=PLFckxHEE6q5vc-si0DTEVA7gg_Z7x0Wwj)
 - Twitter (academic life): [@yixue_zhao](https://twitter.com/yixue_zhao)
 - Instagram (beautiful moments): [@zhao_yixue](https://www.instagram.com/zhao_yixue)

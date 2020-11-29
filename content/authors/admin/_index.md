@@ -49,7 +49,7 @@ social:
   link: https://scholar.google.com/citations?user=HP_aofIAAAAJ&hl=en
 - icon: medium
   icon_pack: fab
-  link: https://medium.com/@yixue_zhao
+  link: https://yixue-zhao.medium.com/
 - icon: github
   icon_pack: fab
   link: https://github.com/felicitia
