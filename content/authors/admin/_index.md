@@ -10,22 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: She/Her
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southern California
+- name: University of Massachusetts Amherst 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Mobile Applications
-- Program Analysis
-- Software Testing
-- Software Architecture
 - Open Science :)
+- Mobile Applications
+- Software Testing
+- Program Analysis
 
 education:
   courses:
@@ -43,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yixuezha@usc.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yixuezhao@cs.umass.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=HP_aofIAAAAJ&hl=en
@@ -80,5 +79,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Computing Innovation Fellow ([CIFellow](https://cifellows2020.org/2020-class/)) and will join University of Massachusetts Amherst (**UMass**) from Jan 2021! I just finished my Ph.D. in Computer Science from University of Southern California (**USC**). My primary research community is **Software Engineering**. I am very fortunate to be advised by Dr. [Nenad Medvidović](https://softarch.usc.edu/~neno/) throughout my Ph.D., which raised my interest in pursuing an academic career.
-I enjoy solving important and interesting problems with broad research interests (knowledge has no boundaries, right? :)). Prior to USC, I received my Bachelor’s degree in Software Engineering from Harbin Institute of Technology (**HIT**) in China, advised by Dr. Zhongjie Wang (王忠杰).
+I am a Computing Innovation Fellow ([CIFellow](https://cifellows2020.org/2020-class/)) in the College of Information & Computer Sciences at the University of Massachusetts Amherst ([UMass](https://www.cics.umass.edu/)), working with Dr. [Yuriy Brun](https://people.cs.umass.edu/~brun/). My primary research community is **Software Engineering**. I enjoy solving important and interesting problems with broad research interests (knowledge has no boundaries, right? :)). My current research focus is listed below. I received my Ph.D. in Computer Science from the University of Southern California ([USC](https://www.cs.usc.edu/)), advised by Dr. [Nenad Medvidović](https://softarch.usc.edu/~neno/).  Prior to USC, I received my Bachelor’s degree in Software Engineering from the Harbin Institute of Technology ([HIT](http://en.hit.edu.cn/)) in China, advised by Dr. Zhongjie Wang (王忠杰).
