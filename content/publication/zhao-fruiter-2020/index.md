@@ -1,5 +1,5 @@
 ---
-title: "FrUITeR – A Framework for Evaluating UI Test Reuse"
+title: "FrUITeR: A Framework for Evaluating UI Test Reuse"
 date: 2020-07-01
 authors: ["Yixue Zhao", 
 "Justin Chen", 
