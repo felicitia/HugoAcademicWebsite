@@ -22,8 +22,8 @@ url_code: "https://github.com/felicitia/HiPHarness"
 # url_dataset:
 # url_poster: "files/PALOMA_Poster.pdf"
 # url_project: "https://felicitia.github.io/PALOMA/"
-# url_slides: "https://speakerdeck.com/yixue_zhao/fruiter-a-framework-for-evaluating-ui-test-reuse"
+url_slides: "https://speakerdeck.com/yixue_zhao/assessing-the-feasibility-of-web-request-prediction-models-on-mobile-platforms"
 # url_source:
-# url_video: "https://youtu.be/zVWpT5aLyQo"
+url_video: "https://youtu.be/91b3juLFbeU"
 ---
 

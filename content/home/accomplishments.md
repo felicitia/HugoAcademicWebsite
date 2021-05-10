@@ -78,23 +78,4 @@ date_format = "2006"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "MOBILESoft"
-  organization_url = "https://mobilesoftconf.org/2017/"
-  title = "MOBILESoft Student Research Competition Gold Medal"
-  url = "https://src.acm.org/winners/2018"
-  certificate_url = "https://softarch.usc.edu/~yixue/img/ZHAO_Yixue_MOBILESoft2017.jpeg"
-  date_start = "2017-05-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Ministry of Education (China)"
-  organization_url = "http://en.moe.gov.cn/"
-  title = "China National Scholarship (Top 0.2 %)"
-  url = ""
-  certificate_url = ""
-  date_start = "2013-05-01"
-  date_end = ""
-  description = ""
 +++
