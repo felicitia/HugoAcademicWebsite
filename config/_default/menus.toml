@@ -38,10 +38,10 @@
 #  url = "#services"
 #  weight = 60
 
-[[main]]
-  name = "Activities"
-  url = "#activities"
-  weight = 70
+# [[main]]
+#  name = "Activities"
+#  url = "#activities"
+#  weight = 70
 
 [[main]]
   name = "Featured Pubs"

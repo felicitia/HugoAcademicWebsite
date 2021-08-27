@@ -82,4 +82,4 @@ user_groups:
 ---
 I am a Computing Innovation Fellow ([CIFellow](https://cifellows2020.org/2020-class/)) in the College of Information & Computer Sciences at the University of Massachusetts Amherst ([UMass](https://www.cics.umass.edu/)), working with Dr. [Yuriy Brun](https://people.cs.umass.edu/~brun/). My primary research community is **Software Engineering**. I enjoy solving important and interesting problems with broad research interests (knowledge has no boundaries, right? :)). My current research focus is listed below. I received my Ph.D. in Computer Science from the University of Southern California ([USC](https://www.cs.usc.edu/)), advised by Dr. [Nenad Medvidović](https://softarch.usc.edu/~neno/).  Prior to USC, I received my Bachelor’s degree in Software Engineering from the Harbin Institute of Technology ([HIT](http://en.hit.edu.cn/)) in China, advised by Dr. Zhongjie Wang (王忠杰).
 
-Outside of work, I enjoy rock climbing, taking random classes, and meditation very much.
+Outside of work, I enjoy rock climbing, taking random classes, and meditation very much. Check out my [misc page](/~yixuezhao/misc/) for more non-researchy stuff :)
