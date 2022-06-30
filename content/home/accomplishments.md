@@ -29,6 +29,16 @@ date_format = "2006"
   description = ""
 
 [[item]]
+  organization = "University of Southern California"
+  organization_url = ""
+  title = "William F. Ballhaus Jr. Best Dissertation Award, Finalist (Top 1 in CS department)"
+  url = "https://viterbigrad.usc.edu/2021/05/viterbi-best-dissertation-symposium-2021/"
+  certificate_url = "https://youtu.be/a5oTwih9rkE"
+  date_start = "2021-04-19"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Microsoft Research"
   organization_url = "https://www.microsoft.com/en-us/research"
   title = "Microsoft Research Dissertation Grant (11 recipients in North America)"

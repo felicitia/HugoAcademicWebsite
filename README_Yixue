@@ -32,6 +32,8 @@ To Deploy
 
 3. the urls of static/css and static/js are not generated correctly by hugo command. Go to the generated file `public/misc/index.html` and find paths `/js/load-photoswipe.js` and `/css/hugo-easy-gallery.css`. Then manually add `/~yixue/` in the beginning, e.g.,  `/~yixue/js/load-photoswipe.js`. 
 
+4. change mentoring page following 3 as well (since it uses photo gallery)
+
 ## Adding Recent News
 
 1. Followed this instruction: https://github.com/gcushen/hugo-academic/issues/1677

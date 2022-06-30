@@ -21,6 +21,8 @@ abstract: "Prefetching and caching is a fundamental approach to reduce user-perc
 tags: ["mobile apps", "network latency", "testing", "open science"]
 featured: true
 
-url_pdf: "http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll89/id/396463/rec/1"
+url_pdf: "https://digitallibrary.usc.edu/asset-management/2A3BF1W0UPGN"
+url_slides: "https://speakerdeck.com/yixue_zhao/best-dissertation-symposium-reducing-user-perceived-latency-in-mobile-applications-via-prefetching-and-caching"
+url_video: "https://youtu.be/a5oTwih9rkE"
 
 ---

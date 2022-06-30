@@ -43,7 +43,7 @@ subtitle = "[All News>>](/~yixuezhao/news)"
   # padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
  
  # CSS class.
