@@ -12,9 +12,9 @@ abstract: "Writing and maintaining UI tests for mobile apps is a time-consuming 
 featured: true
 tags: ["software testing", "AI/ML", "UI understanding"]
 publication: "*Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* (**ESEC/FSE 2022**)"
-#url_pdf: "https://arxiv.org/abs/2011.04654"
-# doi: "10.1145/3368089.3409708"
-#url_code: "https://github.com/felicitia/HiPHarness"
+url_pdf: "https://arxiv.org/abs/2209.02577"
+doi: "10.1145/3540250.3549134"
+url_code: "https://doi.org/10.5281/zenodo.7036218"
 # url_dataset:
 # url_poster: "files/PALOMA_Poster.pdf"
 # url_project: "https://felicitia.github.io/PALOMA/"
