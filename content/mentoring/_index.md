@@ -11,6 +11,8 @@ I love working with people! Throughout my research career, I've been extremely l
 
 Mentoring students is probably what I enjoy the most in my work. I love knowing their needs and motivations, and tailoring the experience for them to achieve where *they* want to be, not where I or any other people think they should be. I'm always so proud of my students, but what's more rewarding is to see them building confidence and feeling proud of *themselves*! Now, please allow me to brag about them! :)
 
+Updates: Starting from 2023, I'm doing 1-1 mentoring for PhD student in all fields on general topics that may not be project related. Please refer to the **Volunteering** section on my [**LinkedIn**](https://www.linkedin.com/in/yixue-zhao/) if you are interested.
+
 ### High School Students
 
 {{< gallery dir="/img/high-school/" />}} {{< load-photoswipe >}}

@@ -18,8 +18,8 @@ url_code: "https://doi.org/10.5281/zenodo.7036218"
 # url_dataset:
 # url_poster: "files/PALOMA_Poster.pdf"
 # url_project: "https://felicitia.github.io/PALOMA/"
-#url_slides: "https://speakerdeck.com/yixue_zhao/assessing-the-feasibility-of-web-request-prediction-models-on-mobile-platforms"
+url_slides: "https://speakerdeck.com/yixue_zhao/avgust-automating-usage-based-test-generation-from-videos-of-app-executions"
 # url_source:
-#url_video: "https://youtu.be/91b3juLFbeU"
+url_video: "https://youtu.be/LB-TrLhQcvI"
 ---
 

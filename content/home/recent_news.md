@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Recent News"
-subtitle = "[All News>>](/~yixuezhao/news)"
+subtitle = "[All News>>](/~yixuezha/news)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,4 +50,4 @@ subtitle = "[All News>>](/~yixuezhao/news)"
  css_class = ""
 +++
 
-{{< readfromfile "/content/newslist.dat" 5 >}} 
+{{< readfromfile "/content/newslist.dat" 10 >}} 

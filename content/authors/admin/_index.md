@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Research Computer Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Massachusetts Amherst 
-  url: ""
+- name: Information Sciences Institute
+  url: "https://www.isi.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Next-gen Processors for Spaceships
+- Well-being and Meditation
 - Software Engineering
 - Mobile Applications
 - Program Analysis
 - Software Testing
-- Natural Language Processing
-- Well-being
 
 education:
   courses:
   - course: PhD in Computer Science
-    institution: University of Southern California, USA
-    year: 2020
+    institution: University of Southern California (USC), USA
+    year: 2014 -- 2020
   - course: BEng in Software Engineering
-    institution: Harbin Institute of Technology, China
-    year: 2014
+    institution: Harbin Institute of Technology (HIT), China
+    year: 2010 -- 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -84,9 +84,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-**I'm on the job market for research positions in industry (CV [here](/~yixuezhao/files/CV_Zhao_Yixue.pdf))! If you love your team and you have openings, let's talk! :) My email: felicity.yixue [AT] gmail.com**
+<!-- **I'm on the job market for research positions in industry (CV [here](/~yixuezhao/files/CV_Zhao_Yixue.pdf))! If you love your team and you have openings, let's talk! :) My email: felicity.yixue [AT] gmail.com** -->
 
-I am a Computing Innovation Fellow ([CIFellow](https://cifellows2020.org/2020-class/)) in the College of Information & Computer Sciences at the University of Massachusetts Amherst ([UMass](https://www.cics.umass.edu/)), working with Dr. [Yuriy Brun](https://people.cs.umass.edu/~brun/). My primary research community is Software Engineering. I enjoy solving important and interesting problems with broad research interests (knowledge has no boundaries, right? ;)). My current research focus is listed below (it changes overtime :)). I received my Ph.D. in Computer Science from the University of Southern California ([USC](https://www.cs.usc.edu/)), advised by Dr. [Nenad Medvidović](https://softarch.usc.edu/~neno/).  Before my PhD, I grew up in China and received my Bachelor’s degree in Software Engineering from the Harbin Institute of Technology ([HIT](http://en.hit.edu.cn/)) in China, advised by Dr. Zhongjie Wang (王忠杰).
+I'm a Research Computer Scientist at [Information Scienced Institute (ISI)](https://www.isi.edu/) Arlington (VA), doing cool research and working with cool people 😊 I enjoy solving important and interesting problems with broad research interests (knowledge has no boundaries, right? ;)). My current research focus is listed below (it changes overtime and I'm always open to new collaborations!). Prior to ISI, I enjoyed 2 wonderful years in the beautiful town Amherst (MA) as a Computing Innovation Fellow ([CIFellow](https://cifellows2020.org/2020-class/)) at University of Massachusetts Amherst ([UMass](https://www.cics.umass.edu/)). I received my Ph.D. in Computer Science from University of Southern California ([USC](https://www.cs.usc.edu/)) in 2020. Before my PhD, I grew up in China and received my Bachelor’s degree in Software Engineering from the Harbin Institute of Technology ([HIT](http://en.hit.edu.cn/)) in China.
 
 Throughout my research projects, I enjoy working with people the most. I love learning about leadership and mentoring very much! My mentoring experience can be found [**here**](/~yixuezhao/mentoring/).
 

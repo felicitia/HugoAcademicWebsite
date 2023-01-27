@@ -21,7 +21,7 @@ date_format = "2006"
 [[item]]
   organization = "Computing Research Association (CRA), Computing Community Consortium (CCC)"
   organization_url = ""
-  title = "Computing Innovation Fellow"
+  title = "Computing Innovation Fellow (59 recipients in North America)"
   url = "https://cifellows2020.org"
   certificate_url = ""
   date_start = "2020-08-01"

@@ -87,16 +87,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "yixuezhao@cs.umass.[you know what these 3 letters are]"
+email = "yzhao@isi.[common ending for university emails, 3 letters starting with e :)]"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Computer Science Building", city = "Amherst", region = "MA", postcode = "01002", country = "United States", country_code = "US"}
+address = {street = "Information Sciences Institute", city = "Arlington", region = "VA", postcode = "22203", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.39528754660703", longitude = "-72.53121574446091"}
+coordinates = {latitude = "38.88275834800648", longitude = "-77.10519177209562"}
 
 # Directions for visitors to locate you.
 # directions = "Computer Science Building"

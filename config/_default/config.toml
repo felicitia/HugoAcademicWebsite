@@ -12,8 +12,8 @@ title = "Yixue Zhao"
 # For deployment
 # baseurl = "/~yixue/"
 # For local
-#  baseurl = "/"
-  baseurl = "/~yixuezhao/"
+  baseurl = "/"
+#  baseurl = "/~yixuezhao/"
 
 
 # Enter a copyright notice to display in the site footer.
