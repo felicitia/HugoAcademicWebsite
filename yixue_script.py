@@ -47,6 +47,7 @@ def add_baseurl_to_html(filepath, baseurl):
 
 if __name__ == '__main__':
     baseurl = get_baseurl_from_config()
+    print('baseurl is:', baseurl)
     add_baseurl_to_html('public/mentoring/index.html', baseurl)
     add_baseurl_to_html('public/misc/index.html', baseurl)
 

@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Recent News"
-subtitle = "[All News>>](/~yixuezha/news)"
+subtitle = "[All News>>](news)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
