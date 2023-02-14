@@ -15,7 +15,7 @@ Updates: Starting from 2023, I'm doing 1-1 mentoring for PhD student in all fiel
 
 ### High School Students
 
-{{< gallery dir="/img/high-school/" />}} {{< load-photoswipe >}}
+{{< gallery dir="img/high-school/" />}} {{< load-photoswipe >}}
 
 
 - [Diana Balderas](https://www.linkedin.com/in/diana-balderas/) joined the [USC Young Researchers Program](https://www.youngresearchers.usc.edu/) in the summer of 2017. Instead of helping out my research projects, Diana already had some wonderful ideas of a food distribution app that she was passionate about! Seeing how motivated she was, I decided to let her lead her own project, and support her ideas by providing guidance on the underlying research and technologies that were needed in the project. Diana had no formal education on programming before, but was able to pull off this complicated project in only 6 weeks! What's more, the resulting project has won [2017 Congressional App Challenge](https://signalscv.com/2017/12/golden-valley-student-wins-2017-congressional-app-challenge/)! Diana has continued her passion in tech ever since, and is working at Northrop Grumman as a Software Engineer now!
@@ -26,7 +26,7 @@ Updates: Starting from 2023, I'm doing 1-1 mentoring for PhD student in all fiel
 
 ### Undergraduates
 
-{{< gallery dir="/img/undergraduate/" />}} {{< load-photoswipe >}}
+{{< gallery dir="img/undergraduate/" />}} {{< load-photoswipe >}}
 
 - [Justin Chen](https://www.linkedin.com/in/justinbchen/) joined the [FrUITeR](https://felicitia.github.io/FrUITeR/) project in 2019. He has made significant contributions in the data processing and test analyzing modules. He has strong programming skills and is able to understand complicated algorithms quickly. The project wouldn't be successful without him! The resulting FrUITeR project was accepted to a top research conference ESEC/FSE 2020! See [FrUITeR: A Framework for Evaluating UI Test Reuse](https://2020.esec-fse.org/details/fse-2020-papers/42/FrUITeR-A-Framework-for-Evaluating-UI-Test-Reuse). Justin has joined Salesforce as a Software Engineer!
 
@@ -36,7 +36,7 @@ Updates: Starting from 2023, I'm doing 1-1 mentoring for PhD student in all fiel
 
 ### Graduate Students
 
-{{< gallery dir="/img/graduate/" />}} {{< load-photoswipe >}}
+{{< gallery dir="img/graduate/" />}} {{< load-photoswipe >}}
 
 - [Adriana Sejfia](https://softarch.usc.edu/~adriana/) joined both the HIPHarness empirical study and the software testing project [FrUITeR](https://felicitia.github.io/FrUITeR/). She has made significant contributions in the statistic analysis modules of both projects, and has been an amazing team player. She has strong technical skill and can always contribute brilliant ideas! The resulting projects was accepted to ESEC/FSE 2020 and MOBILESoft 2021! See [FrUITeR: A Framework for Evaluating UI Test Reuse](https://2020.esec-fse.org/details/fse-2020-papers/42/FrUITeR-A-Framework-for-Evaluating-UI-Test-Reuse), and  [Assessing the Feasibility of Web-Request Prediction Models on Mobile Platforms](https://conf.researchr.org/details/mobilesoft-2021/mobilesoft-2021-technical-papers/2/Assessing-the-Feasibility-of-Web-Request-Prediction-Models-on-Mobile-Platforms). Adriana has won the prestigious [Google PhD Fellowship](https://ai.googleblog.com/2020/10/announcing-2020-google-phd-fellows.html)!
 
