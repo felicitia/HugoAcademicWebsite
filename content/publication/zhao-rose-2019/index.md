@@ -19,7 +19,7 @@ tags: ["mobile apps", "open science"]
 categories: []
 featured: false
 
-url_pdf: "https://softarch.usc.edu/~yixue/files/ROSE2019_DECREE.pdf"
+url_pdf: "https://yixuezhao.com/files/ROSE2019_DECREE.pdf"
 url_code:
 url_dataset:
 url_poster:

@@ -12,6 +12,7 @@ title = "Miscellaneous Links"
 - Conference talks on YouTube: [@Yixue Zhao](https://www.youtube.com/playlist?list=PLFckxHEE6q5vc-si0DTEVA7gg_Z7x0Wwj)
 - Twitter (academic life): [@yixue_zhao](https://twitter.com/yixue_zhao)
 - Instagram (beautiful moments): [@zhao_yixue](https://www.instagram.com/zhao_yixue)
+- Favorite Instagram accounts: [@susa_sachiko](https://www.instagram.com/susa_sachiko/), [@im.littlehome](https://www.instagram.com/im.littlehome/), [@spongecake_thescottishfold](https://www.instagram.com/spongecake_thescottishfold/), [@indiarosecrawford](https://www.instagram.com/indiarosecrawford), [@thetinychefshow](https://www.instagram.com/thetinychefshow/)
 - Favorite YouTube channels: [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q), [Mr & Mrs Gao](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ) (Chinese) 
 - Favorite Podcast: [Philosophize this!](https://www.philosophizethis.org/)
 - Favorite Newsletter: [Mindf*ck Mondays](https://markmanson.net/newsletters)
