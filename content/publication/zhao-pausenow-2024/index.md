@@ -13,14 +13,14 @@ abstract: "The prevalence of social media and its escalating impact on mental he
 featured: true
 tags: ["mental health", "digital wellbeing", "mobile apps", "social media", "program analysis"]
 publication: "*Proceedings of the 11th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2024* (**MOBILESoft**)"
-# url_pdf: "https://arxiv.org/abs/2401.15188"
+url_pdf: "https://arxiv.org/abs/2403.05723"
 # doi: "10.1145/3368089.3409708"
 # url_code: "https://github.com/ANRGUSC/mab-reco"
 # url_dataset:
 # url_poster: "files/PALOMA_Poster.pdf"
 # url_project: "https://felicitia.github.io/PALOMA/"
-# url_slides: "https://speakerdeck.com/yixue_zhao/assessing-the-feasibility-of-web-request-prediction-models-on-mobile-platforms"
+url_slides: "https://speakerdeck.com/yixue_zhao/digital-wellbeing-redefined-toward-user-centric-approach-for-positive-social-media-engagement"
 # url_source:
-# url_video: "https://youtu.be/91b3juLFbeU"
+url_video: "https://youtu.be/bP8PEhepoYU?si=Fa_QNw1_Xsb9cfez"
 ---
 

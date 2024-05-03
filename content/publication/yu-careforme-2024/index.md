@@ -22,8 +22,8 @@ url_code: "https://github.com/ANRGUSC/mab-reco"
 # url_dataset:
 # url_poster: "files/PALOMA_Poster.pdf"
 # url_project: "https://felicitia.github.io/PALOMA/"
-# url_slides: "https://speakerdeck.com/yixue_zhao/assessing-the-feasibility-of-web-request-prediction-models-on-mobile-platforms"
+url_slides: "https://speakerdeck.com/yixue_zhao/careforme-contextual-multi-armed-bandit-recommendation-framework-for-mental-health"
 # url_source:
-# url_video: "https://youtu.be/91b3juLFbeU"
+url_video: "https://youtu.be/oJZRwtq8As4?si=1CruaauIIBdweEm8"
 ---
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Assessing the Feasibility of Web-Request Prediction Models on Mobile Platforms [MOBILESoft 2021 Paper Presentation]"
-event: International Conference on Mobile Software Engineering and Systems (MOBILESoft 2019)
+event: International Conference on Mobile Software Engineering and Systems (MOBILESoft 2021)
 event_url:
 location: Virtual Event
 address:
