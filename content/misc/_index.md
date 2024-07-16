@@ -13,9 +13,10 @@ title = "Miscellaneous Links"
 - Twitter (academic life): [@yixue_zhao](https://twitter.com/yixue_zhao)
 - Instagram (beautiful moments): [@zhao_yixue](https://www.instagram.com/zhao_yixue)
 - Favorite Instagram accounts: [@susa_sachiko](https://www.instagram.com/susa_sachiko/), [@im.littlehome](https://www.instagram.com/im.littlehome/), [@spongecake_thescottishfold](https://www.instagram.com/spongecake_thescottishfold/), [@indiarosecrawford](https://www.instagram.com/indiarosecrawford), [@thetinychefshow](https://www.instagram.com/thetinychefshow/)
-- Favorite YouTube channels: [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q), [Mr & Mrs Gao](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ) (Chinese) 
-- Favorite Podcast: [Philosophize this!](https://www.philosophizethis.org/)
-- Favorite Newsletter: [Mindf*ck Mondays](https://markmanson.net/newsletters)
+- Favorite YouTube channels: [Mr & Mrs Gao](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ) (Chinese), [TWIM - Dhamma Sukha Meditation Center](https://www.youtube.com/@DhammasukhaOrg) 
+- Favorite Podcast: [Philosophize this!](https://www.philosophizethis.org/), [FitMind](https://fitmind.org/podcast)
+- Favorite Newsletter: [5 Minutes That Might Change Your Life](https://markmanson.net/newsletters)
+- Favorite Apps: [FitMind](https://fitmind.org/), [Finch](https://finchcare.com/), [Forest](https://www.forestapp.cc/)
 - A list of random (non-major) classes that I've enjoyed taking: [random classes](../classes)
   
 

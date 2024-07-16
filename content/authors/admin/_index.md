@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Next-gen RISC-V Chips for Space
+- High Performance Space Computing
 - Well-being and Mindfulness
 - Mobile Applications
 - Software Engineering
@@ -90,4 +90,4 @@ I'm a Research Computer Scientist at [USC Information Scienced Institute (ISI)](
 
 Throughout my research projects, I enjoy working with people the most. I love learning about leadership and mentoring very much! My mentoring experience can be found [**here**](mentoring/).
 
-Outside of work, I enjoy rock climbing, taking fun classes (see [**class list**](classes/) ), [**meditation**](https://yixue-zhao.medium.com/how-i-sit-for-8-hours-in-meditation-3906645aa80c?source=friends_link&sk=a017e657ea8b61ce102fb8f66504fdcc), [**writing blogs**](https://medium.com/@yixue-zhao), and reading books very much. Check out my [**misc page**](misc/) for more non-researchy stuff :)
+Outside of work, I enjoy rock climbing, taking fun classes (see [**class list**](classes/) ), [**writing blogs**](https://medium.com/@yixue-zhao), and [**meditation**](https://yixue-zhao.medium.com/how-i-sit-for-8-hours-in-meditation-3906645aa80c?source=friends_link&sk=a017e657ea8b61ce102fb8f66504fdcc) (my fav hobby! 🧘‍♀️). Check out my [**misc page**](misc/) for more non-researchy stuff :)
