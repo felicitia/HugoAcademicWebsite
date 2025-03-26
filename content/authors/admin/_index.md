@@ -21,8 +21,8 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- High Performance Space Computing
-- Well-being and Mindfulness
+- AI4Health
+- Mindfulness and Well-being
 - Mobile Applications
 - Software Engineering
 - Program Analysis
@@ -50,7 +50,7 @@ social:
   link: https://www.linkedin.com/in/yixue-zhao/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=HP_aofIAAAAJ&hl=en
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=Bbxlka0AAAAJ&sortby=pubdate&authuser=1
 - icon: medium
   icon_pack: fab
   link: https://yixue-zhao.medium.com/
