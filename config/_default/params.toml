@@ -50,7 +50,7 @@ description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+logo = "logo.png"
 
 ############################
 ## Site Features
@@ -87,16 +87,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "yzhao@isi.[common ending for university emails, 3 letters starting with e :)]"
+email = "f/mzbkykvj"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Information Sciences Institute", city = "Arlington", region = "VA", postcode = "22203", country = "United States", country_code = "US"}
+# address = {street = "Information Sciences Institute", city = "Arlington", region = "VA", postcode = "22203", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.88275834800648", longitude = "-77.10519177209562"}
+# coordinates = {latitude = "38.88275834800648", longitude = "-77.10519177209562"}
 
 # Directions for visitors to locate you.
 # directions = "Computer Science Building"
@@ -110,13 +110,13 @@ coordinates = {latitude = "38.88275834800648", longitude = "-77.10519177209562"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
- contact_links = []
-#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-#  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-#  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-#  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-#  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-#  ]
+ contact_links = [
+  {icon = "twitter", icon_pack = "fab", name = "Twitter/X", link = "https://x.com/yixue_zhao"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/yixue-zhao/"},
+  {icon = "medium", icon_pack = "fab", name = "Medium", link = "https://yixue-zhao.medium.com/"},
+  {icon = "youtube", icon_pack = "fab", name = "YouTube", link = "https://www.youtube.com/@yixuezhao"},
+  {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://www.instagram.com/zhao_yixue/"}
+  ]
 
 ############################
 ## Social
