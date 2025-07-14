@@ -15,7 +15,7 @@ title = "Miscellaneous Links"
 - Favorite Instagram accounts: [@susa_sachiko](https://www.instagram.com/susa_sachiko/), [@im.littlehome](https://www.instagram.com/im.littlehome/), [@spongecake_thescottishfold](https://www.instagram.com/spongecake_thescottishfold/), [@indiarosecrawford](https://www.instagram.com/indiarosecrawford), [@thetinychefshow](https://www.instagram.com/thetinychefshow/)
 - Favorite YouTube channels: [Mr & Mrs Gao](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ) (Chinese), [TWIM - Dhamma Sukha Meditation Center](https://www.youtube.com/@DhammasukhaOrg) 
 - Favorite Podcast: [Philosophize this!](https://www.philosophizethis.org/), [FitMind](https://fitmind.org/podcast)
-- Favorite Newsletter: [5 Minutes That Might Change Your Life](https://markmanson.net/newsletters)
+- Favorite Newsletter: [Letters from Love](https://elizabethgilbert.substack.com/), [5 Minutes That Might Change Your Life](https://markmanson.net/newsletters)
 - Favorite Apps: [FitMind](https://fitmind.org/), [Finch](https://finchcare.com/), [Forest](https://www.forestapp.cc/)
 - A list of random (non-major) classes that I've enjoyed taking: [random classes](../classes)
   
