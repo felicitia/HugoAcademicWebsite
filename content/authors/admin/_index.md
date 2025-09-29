@@ -101,4 +101,4 @@ Hi there! 🤗 I'm a Computer Scientist by training, a Generalist at heart with 
 
 Throughout my research projects, I enjoy working with people the most. I love learning about leadership and mentoring very much! My mentoring experience can be found [**here**](mentoring/).
 
-Outside of work, I enjoy rock climbing, watching anime with my husband, taking fun classes (see [**class list**](classes/) ), [**writing blogs**](https://medium.com/@yixue-zhao), and [**meditation**](https://open.substack.com/pub/yixuezhao/p/how-i-sit-for-8-hours-in-meditation?utm_campaign=post&utm_medium=web) (my fav hobby! 🧘‍♀️). Check out my [**misc page**](misc/) for more non-researchy stuff :)
+Outside of work, I enjoy rock climbing, watching anime with my husband, taking fun classes (see [**class list**](classes/)), [**writing blogs**](https://medium.com/@yixue-zhao), lots of reading, and [**meditation**](https://open.substack.com/pub/yixuezhao/p/how-i-sit-for-8-hours-in-meditation?utm_campaign=post&utm_medium=web) (my fav hobby! 🧘‍♀️). Check out my [**misc page**](misc/) for more non-researchy stuff :)
