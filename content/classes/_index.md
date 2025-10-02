@@ -7,10 +7,11 @@ title = "Random non-major classes I've taken"
 
 +++
 
-The world is endless, and I've always been fascinated by new (sometimes seemingly random) knowledge. New knowledge not only gives me joy when learning it, but also comes handy someday and gives me creative ideas! Here's a list of the "random" classes I've taken throughout the years. I'm super grateful for the era I'm living in! ❤
+The world is endless, and I've always been fascinated by new (sometimes seemingly random) knowledge. New knowledge not only gives me joy when learning it, but also comes handy someday and gives me creative ideas! Here's a list of the "random" classes I've taken throughout the years. I'm super grateful for the era I'm living in! 🥰
 
 ### Well-being
 - The Science of Well-Being by [Laurie Santos](https://psychology.yale.edu/people/laurie-santos) on Coursera
+- Quantum Jumping by Burt Goldman
 - Mindfulness Lab at [Mindful USC](https://mindful.usc.edu/)
 - Mindful Self-Compassion at [Mindful USC](https://mindful.usc.edu/)
 - Mindful Creativity at [Mindful USC](https://mindful.usc.edu/)
@@ -18,8 +19,8 @@ The world is endless, and I've always been fascinated by new (sometimes seemingl
 - Click (mindful relationships) at [Mindful USC](https://mindful.usc.edu/)
 - Sleep at [Mindful USC](https://mindful.usc.edu/)
 - Stress Management for Healthy Living by [Steve Hsu](https://dornsife.usc.edu/phed/people/)
-- Buddhism by [Dhamma Sukha Meditation Center](https://www.dhammasukha.org/) (fun fact: I happened to break the first-timer's meditation record! lol Here's an [article](https://yixue-zhao.medium.com/how-i-sit-for-8-hours-in-meditation-3906645aa80c?sk=a017e657ea8b61ce102fb8f66504fdcc) about my experience. There's way more to this and I'm always excited to talk about it!)
-- Occupational Therapy by [Kelcie Kadowaki](https://chan.usc.edu/people/faculty/Kelcie_Kadowaki) (this is not really a class, but I learned so much in those sessions during my PhD, including productivity, self reflection, life design, Ikigai, and many more!)
+- Buddhism by [Dhamma Sukha Meditation Center](https://www.dhammasukha.org/) (fun fact: I happened to break the first-timer's meditation record! lol Here's an [article](https://open.substack.com/pub/yixuezhao/p/how-i-sit-for-8-hours-in-meditation?r=5onjk5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) about my experience. There's way more to this and I'm always excited to talk about it!)
+- Occupational Therapy by Kelcie Kadowaki (this is not really a class, but I learned so much in those sessions during my PhD, including productivity, self reflection, life design, Ikigai, and many more!)
 
 
 ### Communication
@@ -39,8 +40,9 @@ The world is endless, and I've always been fascinated by new (sometimes seemingl
 ### Art
 - Beginning Piano by Andres Jaramillo (I took it 4 times and we got to perform at a the end of the semester! Here's my attempt at the [piano concert](https://youtube.com/playlist?list=PLFckxHEE6q5uTLqKe8aziizLPD8fDi19c) pretending I didn't mess up haha)
 - International Style Ballroom Dance by [Jesus Fuentes](https://kaufman.usc.edu/faculty/jesus-fuentes/)
-- Ballet by [Kathryn Dunn](https://kaufman.usc.edu/faculty/kathryn-dunn/) (3 times!)
+- Ballet by Kathryn Dunn (3 times!)
 - Hip-Hop Dance
+- Jazz & K-Pop Dance
 
 ### Fitness
   + Kundalini Yoga by [Stephanie Sweet Eggert](https://www.linkedin.com/in/stephanie-sweet-eggert-2b014414/)
